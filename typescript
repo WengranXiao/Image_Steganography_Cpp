@@ -1,0 +1,55 @@
+Script started on Sun Apr  2 23:31:10 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WengrandeMacBook-Air.local/Users/wengranxiao/Desktop/EECS402/myprojects/project3[0m[27m[24m[Jwengranxiao@WengrandeMacBook-Air project3 % [K[?2004hmmake all[?2004l
+make: Nothing to be done for `all'.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WengrandeMacBook-Air.local/Users/wengranxiao/Desktop/EECS402/myprojects/project3[0m[27m[24m[Jwengranxiao@WengrandeMacBook-Air project3 % [K[?2004h[7m./project3.exe deer.ppm[27m[23D[27m.[27m/[27mp[27mr[27mo[27mj[27me[27mc[27mt[27m3[27m.[27me[27mx[27me[27m [27md[27me[27me[27mr[27m.[27mp[27mp[27mm[?2004l
+Reading initial image from: deer.ppm
+Image read successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 3
+Enter name of file to write image to: deerNoMod.ppm
+Image write successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 1
+Enter name of file containing message: EECS402.txt
+Enter row and column for message placement: 275 115
+Message encode successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 3
+Enter name of file to write image to: deerEncoded.ppm
+Image write successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 2
+Image modified to decoded image contents
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 3
+Enter name of file to write image to: deerDecoded.ppm
+Image write successful: Yes
+1. Encode a message from file
+2. Perform decode
+3. Write current image to file
+4. Exit the program
+Enter your choice: 4
+Thanks for using this program!
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WengrandeMacBook-Air.local/Users/wengranxiao/Desktop/EECS402/myprojects/project3[0m[27m[24m[Jwengranxiao@WengrandeMacBook-Air project3 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Apr  2 23:32:10 2023
